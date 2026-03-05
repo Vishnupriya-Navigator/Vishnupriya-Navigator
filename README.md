@@ -125,13 +125,157 @@ Python • Pandas • NumPy • scikit-learn • Google Cloud Platform (BigQuery
 
 ---
 
-### Credit Suisse
+### <img src="https://logo.clearbit.com/fisglobal.com" width="80"> FIS  
+**Sr Full Stack Developer**  
+FinTech Digital Banking Platforms
 
-Software Engineer
+Developed enterprise applications supporting digital banking services and customer interaction platforms across financial systems.
 
-Built enterprise banking systems supporting high-volume financial operations.
+#### Intelligent Customer Support Chatbot – Auto-Response Platform
 
-Focused on backend platform development and distributed systems integration.
+Designed and implemented an automated customer support chatbot platform to handle high-volume banking inquiries and reduce dependency on manual support workflows.
+
+**Key Contributions**
+
+• Designed and developed a **full-stack chatbot platform** enabling automated handling of common financial service queries across banking applications.  
+
+• Implemented **intent classification and keyword-based response routing** to deliver real-time automated responses to frequently asked banking questions.  
+
+• Developed backend services using **C#, .NET Framework, and ASP.NET MVC**, exposing APIs for chatbot request processing and response delivery.  
+
+• Built interactive frontend components using **Angular, JavaScript, HTML, and AJAX** to support user interactions within digital banking interfaces.  
+
+• Designed database schemas and REST services to manage **conversation logs, response templates, and support workflows**.  
+
+• Integrated chatbot services with banking platforms to improve automated customer engagement and streamline support processes.
+
+**Impact**
+
+• Reduced customer support ticket volume by **~40%**  
+• Improved response time for customer inquiries across digital banking channels  
+• Increased automation of repetitive customer service interactions
+
+**Technologies**  
+C# • .NET Framework • ASP.NET MVC • Angular • JavaScript • HTML • AJAX • REST APIs • SQL Server
+
+---
+
+### <img src="https://logo.clearbit.com/wellsfargo.com" width="80"> Wells Fargo  
+**Sr Full Stack Developer**  
+Capital Markets & Enterprise IT Platforms
+
+Developed enterprise platforms supporting capital markets compliance systems and internal enterprise asset lifecycle management solutions.
+
+#### SEC-Compliant Trade Validation Platform – Pre-Trade Regulatory Enforcement System
+
+Designed and developed a regulatory validation platform to ensure capital market trades were executed in compliance with SEC regulations before trade placement.
+
+**Key Contributions**
+
+• Designed and implemented **rule-based validation systems** enforcing SEC trading regulations prior to execution.  
+
+• Developed **dynamic compliance questionnaires and validation logic** to verify regulatory requirements for capital market transactions.  
+
+• Integrated internal and external APIs to retrieve **trade metadata, counterparty details, and regulatory parameters** for automated validation.  
+
+• Implemented **API-driven trade ingestion pipelines** to perform automated compliance verification before transaction submission.  
+
+• Developed backend services and validation workflows using **C#, .NET Core, and ASP.NET MVC**, ensuring scalability and maintainability.
+
+**Impact**
+
+• Reduced regulatory validation errors by **~30%**  
+• Minimized manual compliance review cycles  
+• Improved trade processing accuracy across high-volume capital market workflows
+
+
+#### LCMS – Enterprise IT Asset Lifecycle Management System
+
+Developed a centralized Life Cycle Management System (LCMS) to manage provisioning, allocation, tracking, and decommissioning of enterprise IT assets across business units.
+
+**Key Contributions**
+
+• Designed **API-driven workflows** supporting asset issuance approvals, lifecycle state transitions, and governance compliance.  
+
+• Implemented asset tracking systems to manage **laptop and mobile device allocation across enterprise teams**.  
+
+• Built backend services to support **inventory reconciliation, asset auditing, and lifecycle traceability**.  
+
+• Developed UI components using **Angular and Kendo UI** to manage asset workflows and reporting interfaces.
+
+**Impact**
+
+• Improved enterprise asset tracking accuracy and governance compliance  
+• Reduced manual asset management overhead across internal IT operations
+
+**Technologies**  
+C# • .NET Core • ASP.NET MVC • REST APIs • SQL Server • Angular • Kendo UI • Telerik • JSON • TIBCO • SSIS • SSRS
+
+---
+
+### <img src="https://logo.clearbit.com/credit-suisse.com" width="80"> Credit Suisse  
+**Sr Full Stack Developer**  
+International Wealth Management & Capital Markets Systems
+
+Developed enterprise banking applications supporting international wealth management trading platforms and portfolio management systems across global financial operations.
+
+#### International Wealth Management Trade Processing Platform
+
+Designed and implemented enterprise modules supporting front-office trade processing workflows for international wealth management systems.
+
+**Key Contributions**
+
+• Developed backend services and application modules supporting **trade capture, validation, and portfolio management workflows** across global wealth management platforms.  
+
+• Implemented **REST and WCF service integrations** connecting trade capture systems, portfolio management platforms, and downstream reporting systems.  
+
+• Designed data processing logic for **trade filtering, stratification, and reconciliation**, ensuring consistency across trading and investment systems.  
+
+• Built enterprise UI components and service layers enabling **real-time processing of trade transactions** across distributed banking platforms.  
+
+• Integrated systems across multiple financial services platforms to maintain **accurate trade execution and portfolio alignment**.
+
+**Impact**
+
+• Improved trade data consistency across wealth management platforms  
+• Reduced reconciliation discrepancies in high-volume trading environments  
+• Enhanced operational accuracy across global investment systems
+
+**Technologies**  
+C# • .NET Framework • ASP.NET MVC • Entity Framework • ADO.NET • REST APIs • WCF • SQL Server • SSIS • SSRS • Angular • JavaScript • Messaging Queues
+
+---
+
+### <img src="https://logo.clearbit.com/cevalogistics.com" width="80"> CEVA Logistics  
+**Full Stack Developer**  
+Global Supply Chain & Logistics Platforms
+
+Contributed to the development of enterprise logistics systems supporting global supply chain operations, shipment tracking, and inventory management workflows.
+
+#### CEVA Matrix™ – Logistics Processing & Shipment Management Platform
+
+Designed and developed enterprise modules for a global logistics management platform supporting order processing, shipment tracking, and delivery lifecycle coordination across distributed operations.
+
+**Key Contributions**
+
+• Developed enterprise modules using **ASP.NET MVC and Web Forms** to manage shipment creation, routing updates, and status transitions across logistics workflows.  
+
+• Built backend services and integration layers supporting **order processing, shipment tracking, and inventory coordination** across distributed logistics platforms.  
+
+• Implemented **SQL-driven reporting systems** to provide operational visibility into shipment status, order processing metrics, and logistics performance.  
+
+• Integrated logistics workflows with enterprise backend services enabling **data synchronization across supply chain management systems**.  
+
+• Developed customer-facing interfaces enabling **real-time shipment tracking and delivery lifecycle monitoring**.
+
+**Impact**
+
+• Improved shipment tracking accuracy across logistics operations  
+• Increased order processing efficiency and operational visibility  
+• Reduced manual coordination across distributed supply chain workflows
+
+**Technologies**  
+C# • .NET Framework • ASP.NET MVC • Web Forms • SQL Server • T-SQL • SSIS • SSRS • SSAS • Angular • JavaScript • Tibco • IIS • Windows Services
 
 ---
 
