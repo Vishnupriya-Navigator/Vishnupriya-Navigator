@@ -272,25 +272,33 @@ C# • .NET Framework • ASP.NET MVC • Web Forms • SQL Server • T-SQL •
 
 ## Research & Publications
 
-My research focuses on applying AI to mission-critical systems and software performance diagnostics.
-
-### Small Satellite Conference
-
-AI-Driven Mission-Critical Software Optimization for Small Satellites
-
-Framework integrating machine learning models with automated testing to improve spacecraft software reliability.
+### 🛰 Small Satellite Conference (NASA / Utah State University)
+• **AI-Driven Mission-Critical Software Optimization for Small Satellites: Integrating Automated Testing Framework**  
+Small Satellite Conference 2025  
+https://digitalcommons.usu.edu/smallsat/2025/all2025/124/
 
 ---
 
-### IEEE Aerospace Research
-
-AI-Driven Fault Detection and Reliability Diagnostics for Spacecraft Software
+### 🚀 AIAA SciTech Conference
+• **AI-Driven Fault Detection & Reliability Diagnostics for Spacecraft Using SimuPy and Random Forest**  
+AIAA SciTech 2026  
+https://arc.aiaa.org/doi/abs/10.2514/6.2026-2263.c1
 
 ---
 
-### IEEE Journal Submission
+### 📑 IEEE Publications
 
-AI-Driven Performance Optimization Framework for FinTech Systems Using Machine Learning Models
+• https://ieeexplore.ieee.org/document/11391017  
+
+• https://ieeexplore.ieee.org/document/11337620  
+
+• https://ieeexplore.ieee.org/document/11337391  
+
+• https://ieeexplore.ieee.org/document/11304649  
+
+• https://ieeexplore.ieee.org/document/11296166  
+
+• https://ieeexplore.ieee.org/document/11139916
 
 ---
 
