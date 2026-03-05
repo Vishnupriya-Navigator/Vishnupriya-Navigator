@@ -301,27 +301,6 @@ C# • .NET Framework • ASP.NET MVC • Web Forms • SQL Server • T-SQL •
 
 ---
 
-## Featured Projects
-
-### AI-Driven Spacecraft Software Diagnostics Framework
-
-Machine learning system designed to analyze spacecraft telemetry data to detect anomalies in mission-critical systems.
-
-Technologies:
-
-Python  
-SimuPy-Flight  
-Random Forest  
-Telemetry Simulation
-
----
-
-### AI Performance Optimization Framework for Financial Systems
-
-Framework applying machine learning to operational telemetry to identify performance bottlenecks in enterprise financial platforms.
-
----
-
 ## Connect
 
 Website  
