@@ -49,9 +49,8 @@ I combine deep software engineering expertise with applied AI research, building
 
 • NASA Space Apps Challenge  
 • Carnegie Mellon TartanHacks  
-• UC Davis HackDavis  
 • CodeQuest  
-• Globee Cybersecurity Awards  
+• Credit Connect Technology Awards  
 • Risk Technology Awards
 
 ---
