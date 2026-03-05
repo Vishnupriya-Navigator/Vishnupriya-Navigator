@@ -67,15 +67,13 @@ I combine deep software engineering expertise with applied AI research, building
 
 ## Professional Experience
 
-### American Express
-
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/American_Express_logo.svg" width="80"> American Express
 **Sr AI/ML Engineer**  
 FinTech Platform Engineering
 
 Architected and deployed an **Agentic AI-Driven Performance Intelligence & Diagnostics Platform** for enterprise financial systems to proactively detect system degradation and optimize operational performance.
 
-Key contributions:
+**Key contributions**
 
 • Built production AI services using **Python + FastAPI** exposing REST endpoints for AI agents, retrieval queries, and ML inference.  
 • Designed telemetry feature engineering pipelines using **Pandas, NumPy, PyTorch and TensorFlow** generating rolling statistics and anomaly indicators.  
@@ -96,17 +94,34 @@ Python • FastAPI • PyTorch • TensorFlow • scikit-learn • LangChain •
 
 ---
 
-### Cigna
+### <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Cigna_logo.svg" width="80"> Cigna  
+**Sr Engineer – Data, AI/ML**  
+Healthcare Insurance Platforms
 
-Software Engineer
+Developed large-scale healthcare claims processing and analytics systems supporting distributed insurance workflows.
 
-Developed backend services and data workflows supporting healthcare claims processing systems.
+#### TIC Rolling Accums Claims Processing Platform
 
-Work included:
+Designed and implemented systems for ingestion, transformation, validation, and analytics of large healthcare claims datasets.
 
-• ETL pipelines and analytics workflows  
-• distributed system integrations  
-• backend service development
+**Key Contributions**
+
+• Built scalable **ETL and data engineering pipelines** using Python to ingest, transform, normalize, and enrich structured healthcare claims data.  
+• Developed **analytics and ML-driven workflows** using Pandas, NumPy, and scikit-learn to detect anomalies and generate risk indicators across claims datasets.  
+• Implemented **classification-based modeling experiments** and statistical feature extraction for healthcare claims trend analysis using BigQuery.  
+• Integrated **Google Cloud Platform services (BigQuery, GCS)** with orchestration through **Cloud Composer (Apache Airflow)**.  
+• Developed **REST-based microservices using C#/.NET and Python APIs** to support distributed healthcare workflows.  
+• Containerized services using **Docker and Kubernetes/OpenShift**, enabling CI/CD-driven deployments and scalable processing pipelines.  
+• Implemented structured logging, exception handling, and observability integrations to ensure reliability across healthcare data systems.
+
+**Impact**
+
+• Reduced manual claims review cycles by **~30%**  
+• Improved claims validation accuracy and anomaly detection  
+• Accelerated processing of **millions of healthcare claims records**
+
+**Technologies**  
+Python • Pandas • NumPy • scikit-learn • Google Cloud Platform (BigQuery, GCS) • Cloud Composer • Apache Airflow • SQL • Docker • Kubernetes • C# • .NET Core • REST APIs • CI/CD
 
 ---
 
