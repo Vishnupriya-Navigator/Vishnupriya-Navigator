@@ -1,13 +1,16 @@
-# Vishnupriya S. Devarajulu
+# Vishnupriya (Priya) S. Devarajulu
 
-AI Engineer | Software Architect | Applied AI Researcher
-
-IEEE Senior Member | IEEE Computer Society Top 30 Early Career Professional 2025  
-NASA Space Apps Navigator | Conference Author (AIAA / IEEE / SmallSat)
+**Sr AI/ML Engineer | LLMOps & Agentic RAG | AI Systems / Platform Engineering (FinTech + Healthcare)**  
 
 Florida, USA
 
----
+[![IEEE Senior Member](https://img.shields.io/badge/IEEE-Senior%20Member-0054A6)](#)
+[![IEEE Top 30 Early Career (2025)](https://img.shields.io/badge/IEEE%20CS-Top%2030%20Early%20Career%202025-0054A6)](#)
+[![NASA Space Apps](https://img.shields.io/badge/NASA-Space%20Apps%20Navigator-0B3D91)](#)
+[![AIAA SciTech 2026](https://img.shields.io/badge/AIAA-SciTech%202026-111111)](#)
+[![SmallSat](https://img.shields.io/badge/SmallSat-Conference%20Author-111111)](#)
+
+**Contact:** priyadevaraj.tech@gmail.com • Website: https://priyadevarajulu.pages.dev • LinkedIn: (add) • ORCID: (add)
 
 ## About Me
 
