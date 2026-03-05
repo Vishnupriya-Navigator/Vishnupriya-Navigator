@@ -69,7 +69,7 @@ I combine deep software engineering expertise with applied AI research, building
 
 ### American Express
 
-### <img src="https://logo.clearbit.com/americanexpress.com" width="40"> American Express  
+### <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/American_Express_logo.svg" width="80"> American Express
 **Sr AI/ML Engineer**  
 FinTech Platform Engineering
 
@@ -78,20 +78,20 @@ Architected and deployed an **Agentic AI-Driven Performance Intelligence & Diagn
 Key contributions:
 
 • Built production AI services using **Python + FastAPI** exposing REST endpoints for AI agents, retrieval queries, and ML inference.  
-• Designed telemetry feature engineering pipelines using **Pandas and NumPy** generating rolling statistics and anomaly indicators.  
+• Designed telemetry feature engineering pipelines using **Pandas, NumPy, PyTorch and TensorFlow** generating rolling statistics and anomaly indicators.  
 • Trained ML models including **Random Forest, XGBoost, and SVM** with scikit-learn using cross-validation and ROC-AUC optimization.  
 • Implemented **Retrieval-Augmented Generation (RAG)** pipelines using Azure OpenAI embeddings and vector search (FAISS / Azure Cognitive Search).  
 • Developed **LangChain / LangGraph agent workflows** integrating contextual retrieval, model inference, and automated diagnostics.  
 • Containerized ML services using **Docker** and deployed to **Kubernetes/OpenShift** with CI/CD automation.  
 • Integrated observability and monitoring using **Splunk and Dynatrace** to track model performance and API latency.
 
-Impact:
+**Impact**
 
 • Reduced diagnostic response latency by **25%**  
 • Reduced alert noise and manual investigation effort by **30-35%**  
 • Improved reliability of critical financial systems
 
-Technologies  
+**Technologies** 
 Python • FastAPI • PyTorch • TensorFlow • scikit-learn • LangChain • LangGraph • Azure OpenAI • RAG • Vector Search • Docker • Kubernetes • Jenkins • GitHub Actions • Splunk • Dynatrace
 
 ---
