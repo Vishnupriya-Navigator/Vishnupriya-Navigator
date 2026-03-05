@@ -56,6 +56,38 @@ I combine deep software engineering expertise with applied AI research, building
 
 ---
 
+## Research & Publications
+
+### 🛰 Small Satellite Conference (NASA / Utah State University)
+• **AI-Driven Mission-Critical Software Optimization for Small Satellites: Integrating Automated Testing Framework**  
+Small Satellite Conference 2025  
+https://digitalcommons.usu.edu/smallsat/2025/all2025/124/
+
+---
+
+### 🚀 AIAA SciTech Conference
+• **AI-Driven Fault Detection & Reliability Diagnostics for Spacecraft Using SimuPy and Random Forest**  
+AIAA SciTech 2026  
+https://arc.aiaa.org/doi/abs/10.2514/6.2026-2263.c1
+
+---
+
+### 📑 IEEE Publications
+
+• https://ieeexplore.ieee.org/document/11391017  
+
+• https://ieeexplore.ieee.org/document/11337620  
+
+• https://ieeexplore.ieee.org/document/11337391  
+
+• https://ieeexplore.ieee.org/document/11304649  
+
+• https://ieeexplore.ieee.org/document/11296166  
+
+• https://ieeexplore.ieee.org/document/11139916
+
+---
+
 ## Professional Experience
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/American_Express_logo.svg" width="80"> American Express
@@ -267,38 +299,6 @@ Designed and developed enterprise modules for a global logistics management plat
 
 **Technologies**  
 C# • .NET Framework • ASP.NET MVC • Web Forms • SQL Server • T-SQL • SSIS • SSRS • SSAS • Angular • JavaScript • Tibco • IIS • Windows Services
-
----
-
-## Research & Publications
-
-### 🛰 Small Satellite Conference (NASA / Utah State University)
-• **AI-Driven Mission-Critical Software Optimization for Small Satellites: Integrating Automated Testing Framework**  
-Small Satellite Conference 2025  
-https://digitalcommons.usu.edu/smallsat/2025/all2025/124/
-
----
-
-### 🚀 AIAA SciTech Conference
-• **AI-Driven Fault Detection & Reliability Diagnostics for Spacecraft Using SimuPy and Random Forest**  
-AIAA SciTech 2026  
-https://arc.aiaa.org/doi/abs/10.2514/6.2026-2263.c1
-
----
-
-### 📑 IEEE Publications
-
-• https://ieeexplore.ieee.org/document/11391017  
-
-• https://ieeexplore.ieee.org/document/11337620  
-
-• https://ieeexplore.ieee.org/document/11337391  
-
-• https://ieeexplore.ieee.org/document/11304649  
-
-• https://ieeexplore.ieee.org/document/11296166  
-
-• https://ieeexplore.ieee.org/document/11139916
 
 ---
 
