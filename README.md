@@ -94,7 +94,7 @@ Python • FastAPI • PyTorch • TensorFlow • scikit-learn • LangChain •
 
 ---
 
-### <img src="https://companieslogo.com/img/orig/CI_BIG-8f1e5b5e.png" width="80"> Cigna  
+### <img src="https://logo.clearbit.com/cigna.com" width="80"> Cigna  
 **Sr Engineer – Data, AI/ML**  
 Healthcare Insurance Platforms
 
