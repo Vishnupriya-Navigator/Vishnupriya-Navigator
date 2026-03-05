@@ -32,16 +32,6 @@ I combine deep software engineering expertise with applied AI research, building
 
 ---
 
-## Professional Domains
-
-💳 FinTech Systems  
-🏥 Healthcare Platforms  
-🤖 Artificial Intelligence & Machine Learning  
-⚙️ Distributed Systems Engineering  
-📊 Performance Engineering & Observability
-
----
-
 ## Professional Recognition
 
 🏅 IEEE Senior Member  
@@ -79,18 +69,30 @@ I combine deep software engineering expertise with applied AI research, building
 
 ### American Express
 
-Senior Software Engineer
+### <img src="https://logo.clearbit.com/americanexpress.com" width="40"> American Express  
+**Sr AI/ML Engineer**  
+FinTech Platform Engineering
 
-Design and develop performance engineering frameworks and automation systems for mission-critical financial platforms.
+Architected and deployed an **Agentic AI-Driven Performance Intelligence & Diagnostics Platform** for enterprise financial systems to proactively detect system degradation and optimize operational performance.
 
-Key areas of work include:
+Key contributions:
 
-• AI-driven performance diagnostics  
-• telemetry-based system analysis  
-• automated performance testing frameworks (Karate + Gatling)  
-• distributed system observability and performance optimization  
+• Built production AI services using **Python + FastAPI** exposing REST endpoints for AI agents, retrieval queries, and ML inference.  
+• Designed telemetry feature engineering pipelines using **Pandas and NumPy** generating rolling statistics and anomaly indicators.  
+• Trained ML models including **Random Forest, XGBoost, and SVM** with scikit-learn using cross-validation and ROC-AUC optimization.  
+• Implemented **Retrieval-Augmented Generation (RAG)** pipelines using Azure OpenAI embeddings and vector search (FAISS / Azure Cognitive Search).  
+• Developed **LangChain / LangGraph agent workflows** integrating contextual retrieval, model inference, and automated diagnostics.  
+• Containerized ML services using **Docker** and deployed to **Kubernetes/OpenShift** with CI/CD automation.  
+• Integrated observability and monitoring using **Splunk and Dynatrace** to track model performance and API latency.
 
-Technologies: Python, Scala, JavaScript, Kubernetes, Docker, Dynatrace, Splunk, Grafana
+Impact:
+
+• Reduced diagnostic response latency by **25%**  
+• Reduced alert noise and manual investigation effort by **30-35%**  
+• Improved reliability of critical financial systems
+
+Technologies  
+Python • FastAPI • PyTorch • TensorFlow • scikit-learn • LangChain • LangGraph • Azure OpenAI • RAG • Vector Search • Docker • Kubernetes • Jenkins • GitHub Actions • Splunk • Dynatrace
 
 ---
 
