@@ -147,7 +147,7 @@ Python • Pandas • NumPy • scikit-learn • Google Cloud Platform (BigQuery
 
 ---
 
-### <img src="assets/logos/fis.png" width="80"> FIS
+### <img src="assets/logos/FIS.png" width="80"> FIS
 **Sr Full Stack Developer**  
 FinTech Digital Banking Platforms
 
@@ -235,7 +235,7 @@ C# • .NET Core • ASP.NET MVC • REST APIs • SQL Server • Angular • Ke
 
 ---
 
-### <img src="assets/logos/Credit-Suisse.png" width="80"> Credit Suisse  
+### <img src="assets/logos/Credit-Suisse-logo.png" width="80"> Credit Suisse  
 **Sr Full Stack Developer**  
 International Wealth Management & Capital Markets Systems
 
