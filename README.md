@@ -147,7 +147,7 @@ Python • Pandas • NumPy • scikit-learn • Google Cloud Platform (BigQuery
 
 ---
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/FIS_logo.svg" width="80"> FIS 
+### <img src="assets/logos/fis.png" width="80"> FIS
 **Sr Full Stack Developer**  
 FinTech Digital Banking Platforms
 
@@ -235,7 +235,7 @@ C# • .NET Core • ASP.NET MVC • REST APIs • SQL Server • Angular • Ke
 
 ---
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Credit_Suisse_Logo.svg" width="80"> Credit Suisse  
+### <img src="assets/logos/Credit-Suisse.png" width="80"> Credit Suisse  
 **Sr Full Stack Developer**  
 International Wealth Management & Capital Markets Systems
 
@@ -268,7 +268,7 @@ C# • .NET Framework • ASP.NET MVC • Entity Framework • ADO.NET • REST 
 
 ---
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Ceva_Logistics_logo.svg" width="80"> CEVA Logistics  
+### <img src="assets/logos/ceva.png" width="80"> CEVA LOGISTICS
 **Full Stack Developer**  
 Global Supply Chain & Logistics Platforms
 
