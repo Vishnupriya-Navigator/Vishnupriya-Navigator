@@ -10,7 +10,7 @@ Florida, USA
 [![AIAA SciTech 2026](https://img.shields.io/badge/AIAA-SciTech%202026-111111)](#)
 [![SmallSat](https://img.shields.io/badge/SmallSat-Conference%20Author-111111)](#)
 
-**Contact:** priyadevaraj.tech@gmail.com • Website: https://priyadevarajulu.pages.dev • LinkedIn: (add) • ORCID: (add)
+**Contact:** priyadevaraj.tech@gmail.com • Website: https://priyadevarajulu.pages.dev • LinkedIn: https://www.linkedin.com/in/priya-d-76a403139/ • ORCID: https://orcid.org/0009-0001-8038-5152
 
 ## About Me
 
