@@ -21,6 +21,66 @@ My work focuses on applying Artificial Intelligence and machine learning techniq
 I combine deep software engineering expertise with applied AI research, building intelligent systems that integrate machine learning, telemetry analytics, and automated diagnostics.
 
 ---
+## Professional Domains
+
+💳 FinTech Systems  
+🏥 Healthcare Platforms  
+🤖 Artificial Intelligence & Machine Learning  
+⚙️ Distributed Systems Engineering  
+📊 Performance Engineering & Observability
+
+# Vishnupriya (Priya) S. Devarajulu
+
+AI/ML Engineer | AI Systems Architect | Enterprise Software Engineer
+
+FinTech • Healthcare • Artificial Intelligence • Distributed Systems • Performance Engineering
+
+📍 Florida, USA
+
+---
+
+## Professional Domains
+
+💳 FinTech Systems  
+🏥 Healthcare Platforms  
+🤖 Artificial Intelligence & Machine Learning  
+⚙️ Distributed Systems Engineering  
+📊 Performance Engineering & Observability
+
+---
+
+## Professional Recognition
+
+🏅 IEEE Senior Member  
+🏆 IEEE Computer Society Top 30 Early Career Professionals 2025  
+🚀 NASA Space Apps Navigator  
+🛰 AIAA SciTech Conference Author  
+🛰 Small Satellite Conference Research Author
+
+---
+
+## Certifications
+
+🎓 Harvard University – Data Privacy and Technology  
+🧠 NVIDIA – Generative AI with LLMs  
+🔐 SANS – Security Awareness  
+📊 Splunk – Data Analytics Certification  
+📋 Scrum Alliance – Certified ScrumMaster
+
+---
+
+## Community Leadership
+
+🌎 Hackathon Judge
+
+• NASA Space Apps Challenge  
+• Carnegie Mellon TartanHacks  
+• UC Davis HackDavis  
+• CodeQuest  
+• Globee Cybersecurity Awards  
+• Risk Technology Awards
+
+---
 
 ## Professional Experience
 
