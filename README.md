@@ -22,15 +22,6 @@ My work focuses on applying Artificial Intelligence and machine learning techniq
 I combine deep software engineering expertise with applied AI research, building intelligent systems that integrate machine learning, telemetry analytics, and automated diagnostics.
 
 ---
-## Professional Domains
-
-💳 FinTech Systems  
-🏥 Healthcare Platforms  
-🤖 Artificial Intelligence & Machine Learning  
-⚙️ Distributed Systems Engineering  
-📊 Performance Engineering & Observability
-
----
 
 ## Professional Recognition
 
