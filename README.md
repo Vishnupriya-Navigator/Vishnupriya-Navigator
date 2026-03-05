@@ -1,8 +1,9 @@
-# Vishnupriya (Priya) S. Devarajulu
+# Priya Devarajulu
 
-**Sr AI/ML Engineer | LLMOps & Agentic RAG | AI Systems / Platform Engineering (FinTech + Healthcare)**  
+**Sr AI/ML Engineer | LLMOps & Agentic RAG | Performance Engineering | AI Systems / Platform Engineering (FinTech + Healthcare)**  
 
-Florida, USA
+**📍 Florida, USA**
+
 
 [![IEEE Senior Member](https://img.shields.io/badge/IEEE-Senior%20Member-0054A6)](#)
 [![IEEE Top 30 Early Career (2025)](https://img.shields.io/badge/IEEE%20CS-Top%2030%20Early%20Career%202025-0054A6)](#)
@@ -28,14 +29,6 @@ I combine deep software engineering expertise with applied AI research, building
 🤖 Artificial Intelligence & Machine Learning  
 ⚙️ Distributed Systems Engineering  
 📊 Performance Engineering & Observability
-
-# Vishnupriya (Priya) S. Devarajulu
-
-AI/ML Engineer | AI Systems Architect | Enterprise Software Engineer
-
-FinTech • Healthcare • Artificial Intelligence • Distributed Systems • Performance Engineering
-
-📍 Florida, USA
 
 ---
 
