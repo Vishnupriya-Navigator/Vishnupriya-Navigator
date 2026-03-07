@@ -5,11 +5,11 @@
 **📍 Florida, USA**
 
 
-[![IEEE Senior Member](https://img.shields.io/badge/IEEE-Senior%20Member-0054A6)](#)
 [![IEEE Top 30 Early Career (2025)](https://img.shields.io/badge/IEEE%20CS-Top%2030%20Early%20Career%202025-0054A6)](#)
 [![NASA Space Apps](https://img.shields.io/badge/NASA-Space%20Apps%20Navigator-0B3D91)](#)
 [![AIAA SciTech 2026](https://img.shields.io/badge/AIAA-SciTech%202026-111111)](#)
 [![SmallSat](https://img.shields.io/badge/SmallSat-Conference%20Author-111111)](#)
+[![IEEE Senior Member](https://img.shields.io/badge/IEEE-Senior%20Member-0054A6)](#)
 
 **Contact:** priyadevaraj.tech@gmail.com • Website: https://priyadevarajulu.pages.dev • LinkedIn: https://www.linkedin.com/in/priya-d-76a403139/ • ORCID: https://orcid.org/0009-0001-8038-5152
 
