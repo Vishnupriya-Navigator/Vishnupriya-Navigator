@@ -15,7 +15,7 @@
 
 ## About Me
 
-I am an AI/ML engineer and software architect with 11+ years of experience designing and building enterprise-scale software systems across financial services and healthcare industries.
+I am an AI/ML Data engineer and software architect with 11+ years of experience designing and building enterprise-scale software systems across financial services and healthcare industries.
 
 My work focuses on applying Artificial Intelligence and machine learning techniques to improve the reliability, performance, and diagnostics of complex mission-critical software systems.
 
