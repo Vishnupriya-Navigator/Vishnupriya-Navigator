@@ -4,7 +4,7 @@
 
 **📍 Florida, USA**
 
-[![Microsoft Azure AI Engineer](https://img.shields.io/badge/Azure%20AI-Engineer%20AI--102-0078D4?logo=microsoft&logoColor=white)](#)
+[![Microsoft Azure AI Engineer](https://img.shields.io/badge/Microsoft-Azure%20AI%20Engineer%20(AI--102)-0078D4?logo=microsoft&logoColor=white)](YOUR_CERTIFICATE_LINK)
 [![IEEE Top 30 Early Career (2025)](https://img.shields.io/badge/IEEE%20CS-Top%2030%20Early%20Career%202025-0054A6)](#)
 [![NASA Space Apps](https://img.shields.io/badge/NASA-Space%20Apps%20Navigator-0B3D91)](#)
 [![AIAA SciTech 2026](https://img.shields.io/badge/AIAA-SciTech%202026-111111)](#)
