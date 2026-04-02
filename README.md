@@ -25,12 +25,12 @@ I combine deep software engineering expertise with applied AI research, building
 
 ## Certifications
 
-📋 Microsoft Azure AI Engineer 
-🧠 NVIDIA – Generative AI with LLMs 
-🎓 Harvard University – Data Privacy and Technology 
-🔐 SANS – Security Awareness  
-📊 Splunk – Data Analytics Certification  
-📋 Scrum Alliance – Certified ScrumMaster
+- 📋 Microsoft Azure AI Engineer  
+- 🧠 NVIDIA – Generative AI with LLMs  
+- 🎓 Harvard University – Data Privacy and Technology  
+- 🔐 SANS – Security Awareness  
+- 📊 Splunk – Data Analytics Certification  
+- 📋 Scrum Alliance – Certified ScrumMaster  
 
 ---
 
