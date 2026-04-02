@@ -1,6 +1,6 @@
 # Priya Devarajulu
 
-**Sr AI/ML Engineer | LLMOps & Agentic RAG | Performance Engineering | AI Systems / Platform Engineering (FinTech + Healthcare)**  
+**Sr AI/ML Data Engineer | LLMOps & Agentic RAG | Cloud Data Platforms | Streaming Pipelines | Data Engineering | Multi-Cloud ArchitecPerformance Engineering | AI Systems / Platform Engineering (FinTech + Healthcare)**  
 
 **📍 Florida, USA**
 
