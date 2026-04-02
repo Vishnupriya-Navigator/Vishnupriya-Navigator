@@ -26,7 +26,6 @@ I combine deep software engineering expertise with applied AI research, building
 ## Certifications
 
 📋 Microsoft Azure AI Engineer
-
 🎓 Harvard University – Data Privacy and Technology  
 🧠 NVIDIA – Generative AI with LLMs  
 🔐 SANS – Security Awareness  
