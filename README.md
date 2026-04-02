@@ -15,7 +15,10 @@
 
 ## About Me
 
-I am an AI/ML Data engineer and software architect with 11+ years of experience designing and building enterprise-scale software systems across financial services and healthcare industries.
+I am an AI/ML Data engineer and Data Platform Architect with 2+ years of experience building and deploying critical data systems across financial services and healthcare environments, with specialized expertise in scalable data pipelines and cloud-native data platforms. Proven record of architecting data platforms that transform complex transactional and operational data into reliable datasets for analytics, reporting, and decision support.
+Specialized in Python and SQL-based data engineering, ETL/ELT pipelines, batch and streaming processing, data modeling, and cloud platforms. Experienced in designing end-to-end data workflows from data ingestion and transformation to orchestration, CI/CD automation, and production monitoring across distributed systems.
+<img width="468" height="144" alt="image" src="https://github.com/user-attachments/assets/3374cb29-35b3-4a69-84e1-809d4c131ebb" />
+
 
 My work focuses on applying Artificial Intelligence and machine learning techniques to improve the reliability, performance, and diagnostics of complex mission-critical software systems.
 
