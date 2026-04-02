@@ -23,16 +23,6 @@ I combine deep software engineering expertise with applied AI research, building
 
 ---
 
-## Professional Recognition
-
-🏅 IEEE Senior Member  
-🏆 IEEE Computer Society Top 30 Early Career Professionals 2025  
-🚀 NASA Space Apps Navigator  
-🛰 AIAA SciTech Conference Author  
-🛰 Small Satellite Conference Research Author
-
----
-
 ## Certifications
 
 📋 Microsoft Azure AI Engineer
@@ -43,6 +33,14 @@ I combine deep software engineering expertise with applied AI research, building
 📋 Scrum Alliance – Certified ScrumMaster
 
 ---
+
+## Professional Recognition
+
+🏅 IEEE Senior Member  
+🏆 IEEE Computer Society Top 30 Early Career Professionals 2025  
+🚀 NASA Space Apps Navigator  
+🛰 AIAA SciTech Conference Author  
+🛰 Small Satellite Conference Research Author
 
 ## Community Leadership
 
