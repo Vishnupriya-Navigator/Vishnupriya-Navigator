@@ -11,7 +11,7 @@
 [![SmallSat](https://img.shields.io/badge/SmallSat-Conference%20Author-111111)](#)
 [![IEEE Senior Member](https://img.shields.io/badge/IEEE-Senior%20Member-0054A6)](#)
 
-**Contact:** priyadevaraj.tech@gmail.com • Website: https://priyadevarajulu.pages.dev • LinkedIn: https://www.linkedin.com/in/priya-d-76a403139/ • ORCID: https://orcid.org/0009-0001-8038-5152
+
 
 ## About Me
 
@@ -20,9 +20,7 @@ I am an AI/ML Data engineer and Data Platform Architect with 2+ years of experie
 Specialized in Python and SQL-based data engineering, ETL/ELT pipelines, batch and streaming processing, data modeling, and cloud platforms. Experienced in designing end-to-end data workflows from data ingestion and transformation to orchestration, CI/CD automation, and production monitoring across distributed systems.
 
 
-My work focuses on applying Artificial Intelligence and machine learning techniques to improve the reliability, performance, and diagnostics of complex mission-critical software systems.
-
-I combine deep software engineering expertise with applied AI research, building intelligent systems that integrate machine learning, telemetry analytics, and automated diagnostics.
+My work focuses on applying Artificial Intelligence and machine learning techniques to improve the reliability, performance, and diagnostics of complex mission-critical software systems. I combine deep software engineering expertise with applied AI research, building intelligent systems that integrate machine learning, telemetry analytics, and automated diagnostics.
 
 ---
 
